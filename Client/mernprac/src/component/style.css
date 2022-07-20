@@ -1,0 +1,32 @@
+#font{
+    font-family: 'Lobster', cursive;
+    font-size: 15pt;
+}
+#fonts{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10pt;
+}
+#foo{
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 10pt;
+}
+#divv{
+    width: 30%;
+    height: 12vh;
+    transform: translate(10vh,-1.5vh);
+}
+#div{
+    width: 30%;
+    height: 5vh;
+    transform: translate(9vh,2vh);
+}
+#di{
+    width: 40%;
+    height: 5vh;
+    transform: translate(2vh,2vh);
+}
+#d{
+    width: 40%;
+    height: 11vh;
+    transform: translate(3vh,-1vh);
+}
